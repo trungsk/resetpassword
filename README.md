@@ -1,2 +1,2 @@
-# resetpassword
-abc
+# Login and Registration tested on Postman
+
